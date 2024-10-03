@@ -1,0 +1,10 @@
+{
+  "package-name": "tabletopandroid-airport-d73-monroe",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "D73",
+      "revision": 1
+    }
+  ]
+}

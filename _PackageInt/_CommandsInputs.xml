@@ -1,0 +1,13 @@
+<CommandsInputs>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\d73_nunnally-memorial\PackageDefinitions\tabletopandroid-airport-d73-monroe\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="tabletopandroid-airport-d73-monroe" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\d73_nunnally-memorial\PackageSources\Scenery\airport-d73-monroe\scenery\D73.xml" Failure="0">
+		<Package Name="tabletopandroid-airport-d73-monroe" Failure="0">
+			<AssetGroup Name="scenery"/>
+		</Package>
+	</File>
+</CommandsInputs>
+
